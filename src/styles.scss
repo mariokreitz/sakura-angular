@@ -113,6 +113,15 @@ samp {
   font-size: 1em;
 }
 
+.container {
+  max-width: 1440px;
+  margin-inline: auto;
+
+  @media (max-width: 1441px) {
+    padding-inline: 16px;
+  }
+}
+
 @font-face {
   font-family: "Raleway";
   src: url("/assets/fonts/Raleway/Raleway-VariableFont_wght.ttf")
