@@ -26,6 +26,16 @@ footer {
   }
 }
 
+.imprint-link {
+  font-size: 1.25rem;
+  color: white;
+  text-decoration: none;
+  transition: all 0.3s ease-in-out;
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
 .back-to-top {
   flex-shrink: 0;
   transition: all 0.3s ease-in-out;
