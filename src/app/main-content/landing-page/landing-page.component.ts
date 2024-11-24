@@ -6,7 +6,7 @@ import { NavbarComponent } from './navbar/navbar.component';
   standalone: true,
   imports: [NavbarComponent],
   template: `
-    <section>
+    <section id="hero">
       <div><app-navbar /></div>
       <h1 class="fontRaleway">SAKURA RAMEN</h1>
       <h2 class="fontRaleway">BEST RAMEN IN TOWN</h2>
