@@ -1,4 +1,4 @@
-# Sakura [![Netlify Status](https://api.netlify.com/api/v1/badges/0e609d03-83ba-4d97-a951-dcb0b91d26d1/deploy-status)](https://app.netlify.com/sites/sakura-angular/deploys)
+# Sakura [![Netlify Status](https://api.netlify.com/api/v1/badges/4222c8c6-2b62-4659-bfd1-0a1aefcce4c2/deploy-status)](https://app.netlify.com/sites/sakura-angular/deploys)
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.1.
 
